@@ -1,34 +1,218 @@
-![logo](https://coding.blog/img/account-banner.svg)
-<h1 align="center">Hi 👋, I'm ARSHADH</h1>
-<h3 align="center">A passionate Flutter developer from India</h3>
+<div align="center">
 
-<!-- <img align="right" src="https://raw.githubusercontent.com/flutter-view/website/master/images/flutter-view-demo-anim.gif" width="300" alt="coding"> -->
+# Hi 👋, I'm Arshadh P
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=arshadhabbas&label=Profile%20views&color=0e75b6&style=flat" alt="arshadhabbas" /> </p>
+### Flutter Developer | Mobile App Developer | Fintech & Product Development
 
-<!-- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arshadhabbas" alt="arshadhabbas" /></a> </p> -->
+Building scalable, high-performance mobile applications with Flutter.
 
+<p align="center">
+  <a href="mailto:arshadhp98@gmail.com"><img src="https://img.shields.io/badge/Email-arshadhp98%40gmail.com-red?style=for-the-badge&logo=gmail" /></a>
+  <a href="https://linkedin.com/in/arshadh-p-624171271"><img src="https://img.shields.io/badge/LinkedIn-Arshadh%20P-blue?style=for-the-badge&logo=linkedin" /></a>
+  <a href="https://medium.com/@arshadhp98"><img src="https://img.shields.io/badge/Arshadh-black?style=for-the-badge&logo=medium" /></a>
+</p>
+</div>
 
-- 🌱 I’m currently learning **Flutter,Dart**
+---
 
-- 💬 Ask me about **Mobile app development**
+## 👨‍💻 About Me
 
-- 📫 How to reach me **arshadhp98@gmail.com**
+Flutter Developer with professional experience building fintech, stock market, and learning platform applications.
 
-- ⚡ Fun fact **I am Funny😜**
+I have worked on applications ranging from stock analytics platforms with **100K+ downloads** to financial education products, focusing on:
 
-<h3 align="left">Connect with me:</h3>
+- Scalable architecture
+- Performance optimization
+- REST API integrations
+- Payment systems
+- Authentication flows
+- Clean and maintainable code
+
+Currently exploring new opportunities where I can contribute to building impactful mobile products.
+
+---
+
+## 🚀 Professional Experience
+
+### SDE-1 (Mobile)
+**Bloomwaves Private Limited**
+*Jan 2025 – May 2026*
+
+- Led Flutter development for fintech products
+- Architected scalable mobile applications
+- Collaborated with backend, design, and product teams
+- Optimized application performance
+- Conducted code reviews and technical decision making
+
+### Flutter Developer
+**Dailyraven Technologies Pvt Ltd**
+*Nov 2023 – Jan 2025*
+
+- Built FinGrad mobile application from scratch
+- Contributed to Trade Brains mobile application
+- Integrated REST APIs and authentication systems
+- Developed scalable and reusable Flutter architecture
+- Delivered production-ready features across Android and iOS
+
+---
+
+## 📱 Featured Projects
+
+### 📈 FinGrad
+
+A stock market learning platform offering 65+ courses and webinars from 35+ instructors.
+
+#### Highlights
+
+- Flutter & Dart
+- Firebase
+- Riverpod & Provider
+- Google Sign-In
+- Razorpay Integration
+- In-App Purchases
+- M3U8 Video Streaming
+- GoRouter Navigation
+- Python Django Backend
+
+---
+
+### 📊 Trade Brains: Screener & News
+
+Stock analytics and market news platform with **100K+ downloads**.
+
+#### Highlights
+
+- Flutter
+- Firebase
+- Provider
+- Subscription Management
+- AI-powered stock analysis
+- KYC eSigning Flow
+- Google Authentication
+- Android & iOS Deployment
+
+---
+
+#### Features
+
+- Firebase Authentication
+- Riverpod State Management
+- Pagination
+- Theme Switching
+- Shared Preferences
+
+---
+
+## 🛠️ Tech Stack
+
 <p align="left">
-<a href="https://linkedin.com/in/arshadh-p-624171271" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ARSHADH P" height="30" width="40" /></a>
-<a href="https://fb.com/arshadh abbas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="arshadh abbas" height="30" width="40" /></a>
-<a href="https://instagram.com/arsh__x6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="arsh__x6" height="30" width="40" /></a>
+
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+
+<img src="https://img.shields.io/badge/Riverpod-6C63FF?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/Provider-2196F3?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/Hive-F7C04A?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/SQFlite-003B57?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/Shared_Preferences-4CAF50?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/Firebase_Auth-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+
+<img src="https://img.shields.io/badge/FCM-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+
+<img src="https://img.shields.io/badge/Google_Maps-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Razorpay-0C2451?style=for-the-badge&logo=razorpay&logoColor=white" />
+
+<img src="https://img.shields.io/badge/In_App_Purchase-8E24AA?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/GoRouter-EA4335?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Android-34A853?style=for-the-badge&logo=android&logoColor=white" />
+
+<img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white" />
+
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://hive.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" alt="hive" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> </p>
+### Expertise
 
-<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arshadhabbas&show_icons=true&locale=en&layout=compact" alt="arshadhabbas" /></p>
+- Flutter
+- Dart
+- Riverpod
+- Provider
+- REST APIs
+- Firebase Auth
+- Push Notifications
+- In-App Purchases
+- Razorpay
+- Google Maps
+- Hive
+- SQFlite
+- Shared Preferences
+- GoRouter
+- Firebase Cloud Messaging
+- Clean Architecture
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arshadhabbas&show_icons=true&locale=en" alt="arshadhabbas" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arshadhabbas&" alt="arshadhabbas" /></p> -->
+## 📜 Certifications
+
+- AI Appreciate Badge – AI For All (CBSE & Intel)
+- AI Aware Badge – AI For All (CBSE & Intel)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=arshadhabbas&show_icons=true&theme=transparent" />
+</p>
+
+<p align="center">
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=arshadhabbas&theme=transparent" />
+</p>
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arshadhabbas&layout=compact&theme=transparent" />
+</p>
+
+---
+
+## 📫 Connect With Me
+
+- 📧 Email: arshadhp98@gmail.com
+- 💼 LinkedIn: https://linkedin.com/in/arshadh-p-624171271
+- 💻 GitHub: https://github.com/arshadhabbas
+- 🌐 Portfolio: https://arshadhabbas.github.io/portfolio/
+
+---
+
+<div align="center">
+
+### Building production-ready mobile applications with Flutter 🚀
+
+</div>
+
